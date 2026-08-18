@@ -18,7 +18,7 @@ Hands-on technical lead. 18 years shipping identity, Web3, and AI platforms — 
 | [**Vercora**](https://vercora.xyz/) | Solana outcome-markets protocol — Anchor program, TypeScript SDK, wallet-connected client |
 | [**CGIAR**](https://climate-resilience-platform.org/) | Climate resilience mapping — MapLibre, Cloud Optimized GeoTIFF, PostGIS on AWS |
 | [**Reap**](https://www.reapapp.io) | Production AI agents — RAG, tool calling, evals, and audit trails |
-| [**MATTR VII**](https://www.mattr.global) | Led a team of 6 on W3C DIDs / VCs and the [New Zealand Covid Pass](https://www.mattr.global) |
+| [**MATTR VII**](https://www.mattr.global) | Led a team of 6 on the identity platform |
 
 ### Path
 
@@ -27,7 +27,7 @@ Hands-on technical lead. 18 years shipping identity, Web3, and AI platforms — 
 2018–      CTO / Co-founder     Reap AI
 2023–24    Sr Platform Eng      Mona
 2022–23    Lead Developer       Futureverse
-2020–22    Tech Lead            MATTR  ·  NZ Covid Pass
+2020–22    Tech Lead            MATTR
 2019–20    Tech Lead            Trineo / Fisher Funds
 2018–19    Tech Lead            Longboard Games
 2014–17    Senior PHP           Neighbourly
